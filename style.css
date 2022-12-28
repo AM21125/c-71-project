@@ -1,0 +1,50 @@
+#picture{
+    width:100%;
+    height:500px;
+    border-radius: 5px;
+    border-top-color: gold;
+    border-bottom-color: gold;
+    border-left-color: black;
+    border-right-color: black;
+    margin-left: 300px;
+}
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+.campuslife_mainDiv
+{
+    border: 1px solid lightgray;
+}
+.campuslife_mainDiv img
+{
+width:100%;
+}
+.campuslife_mainDiv h5, .campuslife_mainDiv p
+{
+    margin: 20px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+.movie_head i
+{
+    float: right;
+}
+.achievement_text span
+{
+    color: orange;
+}
+.new
+{
+    margin-bottom: 20px;
+}
+#contact iframe
+{
+    width: 100%;
+}
